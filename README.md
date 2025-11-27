@@ -4,8 +4,8 @@
 This repository contains the source code (`index.php`) and the steps used to deploy the application on OpenShift using S2I, expose the service, and verify the route.
 ## 🚀 Deploy Application on OpenShift
 
-### 
-###1️⃣ Create application from Git repo
+###
+1️⃣ Create application from Git repo
 ```bash
 oc new-app https://github.com/Openshift-Imp/do180.git
 
